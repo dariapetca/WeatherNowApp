@@ -1,0 +1,48 @@
+<resources>
+    <!--general-->
+    <string name="app_name">Weather Now App</string>
+    <string name="title_weather">Weather</string>
+    <string name="title_weather_now">Weather now\nTârgu-Mureș</string>
+    <string name="title_measurements">Last Measurements</string>
+    <string name="title_chart">Charts</string>
+    <string name="title_about_us">About us</string>
+    <string name="title_settings">Settings</string>
+
+
+    <!--Settings-->
+    <string name="alegeti_sistemul_de_referinta">Choose the unit reference</string>
+    <string name="alegeti_tema">Choose theme</string>
+    <string name="alegeti_limba">Choose language</string>
+
+
+    <!--utils-->
+    <string name="dialog_weather_error">Could not download weather, please try again later.</string>
+    <string name="dialog_action_ok">Ok</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="date">Date</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="selecteaza_data">Select date</string>
+    <string name="weather_issue">Could not get current weather, please try again later</string>
+
+
+    <!--about-->
+    <string name="about_t_rgu_mure">About Târgu Mureș</string>
+    <string name="about_tg_mures_details">Târgu Mureș is the seat of Mureș County in the north-central part of Romania. Among the city\'s touristic attractions are the Center, the central square, called the Rose Square, where there are countless Baroque, neoclassical and secessionist buildings such as the Church of Saint John the Baptist, the Franciscan Tower, the Palace of Culture or the former town hall, which creates an atmosphere typical of the dualistic period. The walls of the medieval fortress are proof of the long history of the city, which had an important political and economic power in the Transylvanian Principality. Inside the Church in the Citadel were held countless Protestant synods, 37 national assemblies, attended by personalities such as Ludovic I of Hungary, John of Hunedoara or John Sigismund Zápolya. Also, here, Francis Rákóczi II was elected as the regent prince of Hungary and prince of Transylvania.</string>
+    <string name="about_robotix">About The “RobotiX” Robotics Club</string>
+    <string name="the_robotix_robotics_club_was_set_up_in_june_2016_to_support_non_formal_education_that_provides_children_and_young_people_with_opportunities_to_develop_inform_train_consult_support_and_engage_in_social_technical_activities_projects_now_there_are_35_members_from_grades_ix_xii_and_from_all_profiles_of_the_unirea_national_college_robotics_is_an_exciting_and_entertaining_way_of_teaching_mathematics_technology_or_science_robotics_helps_in_several_aspects_problem_analysis_design_and_programming_from_the_circle_s_activity_it_is_worth_mentioning_the_sponsorships_of_two_projects_provided_by_fondul_tiin_escu_collecting_about_2600_euros_for_endowment_with_3d_printers_arduino_and_raspberry_pi_modules_as_well_as_many_other_performant_devices">The “RobotiX” Robotics Club was set up in June 2016 to support non-formal education that provides children and young people with opportunities to develop, inform, train, consult, support and engage in social/ technical activities/ projects. Now, there are 35 members from grades IX-XII and from all profiles of the \'Unirea\' National College. Robotics is an exciting and entertaining way of teaching mathematics, technology or science. Robotics helps in several aspects: problem analysis, design and programming. From the circle\'s activity, it is worth mentioning the sponsorships of two projects provided by Fondul Științescu, collecting about 2600 euros for endowment with 3D printers, Arduino and Raspberry Pi modules as well as many other performant devices.</string>
+    <string name="received_weather_response">Received weather response :</string>
+    <string name="ro">ro</string>
+    <string name="view_screen">View screen~</string>
+    <string name="select_value_until_today">Please select value till today!</string>
+    <string name="nothing_selected">Nothing selected.</string>
+    <string name="could_not_get_weather">Could not get current weather, please try again later</string>
+
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="english">English</string>
+    <string name="romanian">Romanian</string>
+</resources>

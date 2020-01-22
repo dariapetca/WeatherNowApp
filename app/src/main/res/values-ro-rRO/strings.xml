@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--general-->
+    <string name="app_name">Weather Now App</string>
+    <string name="title_weather">Vremea</string>
+    <string name="title_weather_now">Vremea acum</string>
+    <string name="title_measurements">Ultimele masuratori</string>
+    <string name="title_chart">Grafice</string>
+    <string name="title_about_us">Despre noi</string>
+    <string name="title_settings">Setari</string>
+
+
+    <!--Settings-->
+    <string name="alegeti_sistemul_de_referinta">Alegeti sistemul de referinta</string>
+    <string name="alegeti_tema">Alegeti tema</string>
+    <string name="alegeti_limba">Alegeti limba</string>
+
+
+    <!--utils-->
+    <string name="dialog_weather_error">Could not download weather, please try again later.</string>
+    <string name="dialog_action_ok">Ok</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="date">Data</string>
+    <string name="temperature">Temperatura</string>
+    <string name="humidity">Umiditate</string>
+    <string name="selecteaza_data">Selecteaza data</string>
+    <string name="weather_issue">Nu s-a putut obtine vremea, va rugam incercati din nou mai tarziu</string>
+
+
+    <!--about-->
+    <string name="about_t_rgu_mure">Despre Târgu Mureș</string>
+    <string name="about_tg_mures_details">Târgu Mureș este municipiul de reședință al județului Mureș, Transilvania, România. Dintre obiectivele turistice ale orașului face parte Centrul, cu piața centrală, numită Piața Trandafirilor, unde se află nenumărate clădiri construite în stil baroc, neoclasicist și secesionist, cum ar fi Biserica Sfântul Ioan Botezătorul, Turnul franciscanilor, Palatul Culturii sau fosta primărie, care creează o atmosferă tipic perioadei dualiste. Zidurile cetății medievale sunt dovada istoriei îndelungate a orașului care a avut o putere politico-economică importantă în Principatul Transilvaniei. În interiorul Bisericii din Cetate au fost ținute nenumărate sinoduri protestante, 37 de adunări naționale, la care au participat personalități ca Ludovic I al Ungariei, Ioan de Hunedoara sau Ioan Sigismund Zápolya. Totodată aici a fost ales ca principe regent al Ungariei și principe al Transilvaniei Francisc Rákóczi al II-lea.</string>
+    <string name="about_robotix">Despre Cercul de Robotică ”RobotiX”</string>
+    <string name="the_robotix_robotics_club_was_set_up_in_june_2016_to_support_non_formal_education_that_provides_children_and_young_people_with_opportunities_to_develop_inform_train_consult_support_and_engage_in_social_technical_activities_projects_now_there_are_35_members_from_grades_ix_xii_and_from_all_profiles_of_the_unirea_national_college_robotics_is_an_exciting_and_entertaining_way_of_teaching_mathematics_technology_or_science_robotics_helps_in_several_aspects_problem_analysis_design_and_programming_from_the_circle_s_activity_it_is_worth_mentioning_the_sponsorships_of_two_projects_provided_by_fondul_tiin_escu_collecting_about_2600_euros_for_endowment_with_3d_printers_arduino_and_raspberry_pi_modules_as_well_as_many_other_performant_devices">Cercul de Robotică ”RobotiX” a fost înființat în iunie 2016, cu scopul sprijinării educației nonformale care oferă copiilor și tinerilor oportunități de dezvoltare, informare, formare, consultanță, suport, relaționare prin implicare în activități / proiecte sociale și tehnice. În prezent însumează 35 de membri din clasele IX-XII și de la toate profilurile Colegiului Național „Unirea”. Robotica este o cale captivantă şi distractivă în predarea unor noţiuni de matematică, tehnologie sau de ştiinţele naturii. Robotica ajută în mai multe aspecte: analiza problemelor, proiectare și programare.Din activitatea cercului se remarcă câștigarea finanțării a două proiecte de către Fondul Științescu, adunând aproximativ 2600 de euro pentru dotarea cu imprimante 3D, module Arduino și Raspberry Pi precum și multe alte aparaturi performante.</string>
+    <string name="select_value_until_today">va rugam selectati o data pana azi inclusiv!</string>
+    <string name="nothing_selected">Nimic selectat.</string>
+    <string name="received_weather_response">Received weather response :</string>
+    <string name="ro">ro</string>
+    <string name="view_screen">Vizualizati ecranul~</string>
+    <string name="could_not_get_weather">Nu s-a putut obtine vremea, va rugam sa incercati din nou mai tarziu.</string>
+
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="english">Engleză</string>
+    <string name="romanian">Română</string>
+
+</resources>

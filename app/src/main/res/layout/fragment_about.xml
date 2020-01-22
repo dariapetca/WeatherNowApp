@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/about_t_rgu_mure"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/about_tg_mures_details"
+                android:textSize="18sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/about_robotix"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/the_robotix_robotics_club_was_set_up_in_june_2016_to_support_non_formal_education_that_provides_children_and_young_people_with_opportunities_to_develop_inform_train_consult_support_and_engage_in_social_technical_activities_projects_now_there_are_35_members_from_grades_ix_xii_and_from_all_profiles_of_the_unirea_national_college_robotics_is_an_exciting_and_entertaining_way_of_teaching_mathematics_technology_or_science_robotics_helps_in_several_aspects_problem_analysis_design_and_programming_from_the_circle_s_activity_it_is_worth_mentioning_the_sponsorships_of_two_projects_provided_by_fondul_tiin_escu_collecting_about_2600_euros_for_endowment_with_3d_printers_arduino_and_raspberry_pi_modules_as_well_as_many_other_performant_devices"
+                android:textSize="18sp"
+                android:textStyle="normal" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>
